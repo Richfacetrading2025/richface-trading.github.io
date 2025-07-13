@@ -1,0 +1,9 @@
+{
+  "symbol": "XTIUSD",
+  "date": "2025-07-13T06:00:00Z",
+  "buy_entry": 83.5,
+  "sell_entry": 81.9,
+  "sl": 0.6,
+  "tp": 1.2,
+  "lot": 0.09
+}
