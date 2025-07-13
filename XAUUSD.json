@@ -1,0 +1,9 @@
+{
+  "symbol": "XAUUSD",
+  "date": "2025-07-13T06:00:00Z",
+  "buy_entry": 2375.0,
+  "sell_entry": 2355.0,
+  "sl": 2.5,
+  "tp": 5.0,
+  "lot": 0.09
+}
